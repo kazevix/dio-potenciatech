@@ -1,1 +1,1 @@
-# dio-potenciatech
+Repositório de projetos do curso
